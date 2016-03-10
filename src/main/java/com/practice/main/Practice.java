@@ -39,9 +39,4 @@ public class Practice {
         hello.sayBlablabla();
         bye.sayBlablabla();
     }
-
-    @Test
-    public void testAnnotation2(){
-        hello.sayBlablabla();
-    }
 }
