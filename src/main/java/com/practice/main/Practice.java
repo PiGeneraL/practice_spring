@@ -36,6 +36,7 @@ public class Practice {
 
     @Test
     public void testAnnotation(){
+        hello.sayBlablabla();
         bye.sayBlablabla();
     }
 
